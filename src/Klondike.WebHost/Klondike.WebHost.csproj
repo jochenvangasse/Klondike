@@ -67,9 +67,9 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\packages\Autofac.WebApi2.3.4.0\lib\net45\Autofac.Integration.WebApi.dll</HintPath>
     </Reference>
-    <Reference Include="Autofac.Integration.WebApi.Owin, Version=3.2.0.0, Culture=neutral, PublicKeyToken=17863af14b0044da, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\packages\Autofac.WebApi2.Owin.3.2.0\lib\net45\Autofac.Integration.WebApi.Owin.dll</HintPath>
+    <Reference Include="Autofac.Integration.WebApi.Owin, Version=3.3.0.0, Culture=neutral, PublicKeyToken=17863af14b0044da, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Autofac.WebApi2.Owin.3.3.0\lib\net45\Autofac.Integration.WebApi.Owin.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="Common.Logging, Version=2.3.1.0, Culture=neutral, PublicKeyToken=af08829b84f0328e, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -156,12 +156,12 @@
       <HintPath>..\..\packages\NuGet.Core.2.8.6\lib\net40-Client\NuGet.Core.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="NuGet.Lucene, Version=3.0.1.120, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\NuGet.Lucene.3.0.1\lib\net45\NuGet.Lucene.dll</HintPath>
+    <Reference Include="NuGet.Lucene, Version=3.0.3.132, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\NuGet.Lucene.3.0.3\lib\net45\NuGet.Lucene.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="NuGet.Lucene.Web, Version=3.0.1.120, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\NuGet.Lucene.Web.3.0.1\lib\net45\NuGet.Lucene.Web.dll</HintPath>
+    <Reference Include="NuGet.Lucene.Web, Version=3.0.3.132, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\NuGet.Lucene.Web.3.0.3\lib\net45\NuGet.Lucene.Web.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="Owin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=f0ebd12fd5e55cc5, processorArchitecture=MSIL">
